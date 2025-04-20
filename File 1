@@ -1,0 +1,2 @@
+Function Cat:new()
+  NewObj:{Sound:Meow}
